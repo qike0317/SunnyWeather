@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">SunnyWeather</string>
     <string name="shurudizhi">输入地址</string>
+    <string name="yubao">预报</string>
+    <string name="ganmao">感冒</string>
+    <string name="shenghuozhishu">生活指数</string>
+    <string name="chuanyi">穿衣</string>
+    <string name="shishiziwaixian">实时紫外线</string>
+    <string name="xiche">洗车</string>
 </resources>
