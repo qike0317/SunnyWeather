@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SunnyWeather</string>
+    <string name="app_name">原神天气</string>
     <string name="shurudizhi">输入地址</string>
     <string name="yubao">预报</string>
     <string name="ganmao">感冒</string>
