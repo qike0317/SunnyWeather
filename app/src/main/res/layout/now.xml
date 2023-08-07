@@ -8,7 +8,8 @@
     <FrameLayout
         android:id="@+id/titleLayout"
         android:layout_width="match_parent"
-        android:layout_height="70dp">
+        android:layout_height="70dp"
+        android:fitsSystemWindows="true">
         <TextView
             android:id="@+id/placeName"
             android:layout_width="wrap_content"
@@ -52,7 +53,7 @@
                 android:layout_marginStart="13dp"
                 android:textColor="#fff"
                 android:textSize="18sp"
-                android:text="|" />
+                android:text="@string/gun" />
             <TextView
                 android:id="@+id/currentAQI"
                 android:layout_width="wrap_content"
